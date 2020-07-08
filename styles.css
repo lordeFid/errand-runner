@@ -1,0 +1,141 @@
+body {
+  background-color: #002651;
+  color: #fff;
+}
+
+
+/*Bootstrap default styles */
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+/*Custom Header Styles */
+
+
+.container {
+  margin-top: 130px;
+}
+
+nav.navbar-top {
+  background-color: #012145;
+}
+
+.navbar-brand img {
+  height: 3rem;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+/*Page body styles */
+.page-title {
+  color: #775ADA;
+  font-size: 50px;
+}
+
+.page-subTitle {
+  color: #28C7FA;
+  padding-top: 10px;
+  font-size: 22px;
+}
+
+.page-desc {
+  padding-top: 10px;
+  font-size: 18px;
+}
+
+.body-btn {
+  border: none;
+  background-color: #775ADA;
+  color: #fff;
+  border-radius: 50px;
+  padding: 10px 30px;
+  margin-top: 10px;
+}
+
+.body-btn-2 {
+  border: 1.5px solid #775ADA;
+  background-color: transparent;
+  color: #fff;
+  border-radius: 50px;
+  padding: 10px 30px;
+  margin-top: 10px;
+}
+
+.body-btn-3 {
+  border: 1.5px solid #775ADA;
+  background-color: #775ADA;
+  color: #fff;
+  border-radius: 50px;
+  padding: 10px 30px;
+  margin-top: 10px;
+}
+
+div.page-title img {
+  height: 320px;
+}
+
+.center-txt {
+  text-align: center;
+  font-size: 30px;
+}
+
+.page-center-txt {
+  padding-top: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+
+div.box-info {
+  border: 1px solid #99A6B6;
+  background-color: #99A6B6;
+  padding: 20px;
+  height: 100%;
+  margin-right: 15px;
+}
+
+div.box-info img {
+  height: 3rem;
+  margin: 8px;
+}
+
+.page-text-2 {
+  font-size: 16px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+div.immg2 img {
+  height: 280px;
+}
+
+.container2 {
+  background-color: #fff;
+  color: #012145;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  height: 400px;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+div.test-img img {
+  height: 12rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
